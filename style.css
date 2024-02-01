@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+    width: 100%;
+    font-family: "Inter";
+}
+
+#top {
+    display: flex;
+    font-size: 20px;
+    background-color: #C684A3;
+    padding-bottom: 30px;
+}
+
+#image-top {
+    width: 150px;
+    height: 150px;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+#title-top {
+    padding-left: 30px;
+    padding-top: 80px;
+}
+
+#inf-text {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: #c9bdc2;
+}
